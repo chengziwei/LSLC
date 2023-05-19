@@ -4,7 +4,9 @@ Code Implementation of Paper “Joint label-specific features and label correlat
 
 # RUN STEP
 step 1. Download the source code to the local
+
 step 2. Set the folder as the current working path by using MATLAB
+
 step 3. Execute the experiment.m file
 
 # Notes
